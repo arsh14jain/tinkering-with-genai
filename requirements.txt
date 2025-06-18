@@ -1,1 +1,10 @@
- 
+httpx==0.28.1
+httpx-sse==0.4.0
+langchain==0.3.25
+langchain-community==0.3.24
+langchain-core==0.3.61
+langchain-google-genai==2.1.4
+langchain-text-splitters==0.3.8
+langsmith==0.3.42
+mcp-cli==0.1.0
+mcp[cli]

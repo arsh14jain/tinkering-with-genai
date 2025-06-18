@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "weather": {
+      "command": "/Users/arshjain/tinkering-with-genai/venv/bin/python",
+      "args": [
+        "/Users/arshjain/tinkering-with-genai/weather.py"
+      ]
+    }
+  }
+} 

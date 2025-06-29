@@ -13,3 +13,13 @@ dist/
 
 # Claude Desktop config files
 ~/Library/Application Support/Claude/claude_desktop_config.json
+
+# Conversation and chunk data files
+conversations.json
+chunks_*.json
+chroma_db/
+chroma_db_backup/
+test_chroma_db/
+
+# Test files
+test_*.py
